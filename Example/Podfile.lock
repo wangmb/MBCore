@@ -1,0 +1,16 @@
+PODS:
+  - MBCore (0.1.0)
+
+DEPENDENCIES:
+  - MBCore (from `../`)
+
+EXTERNAL SOURCES:
+  MBCore:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MBCore: feac78b98677e97764c194f1fb34453aec43bd03
+
+PODFILE CHECKSUM: 4b6cb94e052efc017d64fa5f757abc5c3d2bb88c
+
+COCOAPODS: 1.1.1

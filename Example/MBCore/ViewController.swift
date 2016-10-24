@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import MBCore
 
 class ViewController: UIViewController {
 
