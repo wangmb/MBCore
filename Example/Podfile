@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MBCore_Example' do
+  pod 'MBCore', :path => '../'
+
+  target 'MBCore_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
