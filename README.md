@@ -22,7 +22,7 @@ pod "MBCore"
 
 ## Author
 
-MBCore, wangmb@gmail.com
+MBCore, wangmb2008@gmail.com
 
 ## License
 
