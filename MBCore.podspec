@@ -40,4 +40,5 @@ TODO: 验证模块、业务解耦方案可行性.
   s.frameworks = 'UIKit'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'CocoaLumberjack/Swift'
 end
